@@ -162,6 +162,6 @@ jQuery(document).ready(function() {
 
 
 <% if( languageSwitch && "loginForm".equals((String) pageContext.getAttribute("formName")) ){ %>
-  <div id="language-chooser"><a href="#" onclick="setLanguage('fr_FR')">Français</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="setLanguage('en_US')">English</a></div>
+  <div id="language-chooser"><a href="#" onclick="setLanguage('hindi')">Hindi</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="setLanguage('en_US')">English</a></div>
 <% } %>
 
